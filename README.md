@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Namuyomba-Esther.
 - 👀 I’m interested in code.
-- 🌱 I’m currently learning html, css, javascript, vue e.t.c.
+- 🌱 I’m currently learning C, html, css, javascript, vue e.t.c.
 - 💞️ I’m looking to collaborate on all code in the above categories.
 - 📫 How to reach me on essyann11@gmail.com
 
